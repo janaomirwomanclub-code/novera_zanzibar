@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://janaomirwomanclub-code.github.io/novera_zanzibar/sitemap.xml
